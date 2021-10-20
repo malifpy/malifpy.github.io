@@ -8,6 +8,9 @@ import {
     navLinkText,
     siteTitle
   } from './layout.module.css'
+
+require(`katex/dist/katex.min.css`)
+
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
     query MyQuery {
@@ -26,17 +29,17 @@ const Layout = ({ pageTitle, children }) => {
         <ul className={navLinks}>
           <li className={navLinkItem}>
             <Link to="/" className={navLinkText}>
-              Home
+              HOME
             </Link>
           </li>
           <li className={navLinkItem}>
             <Link to="/about" className={navLinkText}>
-              About
+              ABOUT
             </Link>
           </li>
           <li className={navLinkItem}>
-            <Link to="/blog" className={navLinkText}>
-              Blog
+            <Link to="/post" className={navLinkText}>
+              POST
             </Link>
           </li>
         </ul>

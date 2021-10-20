@@ -1,11 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
 .container {
   margin: auto;
-  max-width: 500px;
-  font-family: sans-serif;
+  max-width: 45vw;
+  font-family: "Lato", sans-serif;
+  font-size: large;
 }
 
 .heading {
-  color: rebeccapurple;
+  color: #1D3557;
 }
 
 .nav-links {
@@ -24,7 +27,43 @@
 
 .site-title {
   font-size: 3rem;
-  color: gray;
+  color: #050517;
   font-weight: 700;
-  margin: 3rem 0;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  margin: 15px 0;
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code,
+pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+code {
+  margin: 15px 0;
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  line-height: 19px;
+  overflow: auto;
+  padding: 3px 5px;
+  border-radius: 3px;
 }

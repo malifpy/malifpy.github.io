@@ -3,12 +3,12 @@ import { graphql, Link } from "gatsby";
 import Layout from '../../components/layout'
 const BlogPage = ({data}) => {
   return (
-    <Layout pageTitle="My Blog Posts">
+    <Layout pageTitle="My Posts">
       {
         data.allMdx.nodes.map((node) => (
           <article key={node.id}>
             <h2>
-              <Link to={`/blog/${node.slug}`}>
+              <Link to={`/post/${node.slug}`}>
                 {node.frontmatter.title}
               </Link>
             </h2>
