@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-post-index-js",
+    "path": "/post/",
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"title":"K-Nearest Neighbor","date":"20 October 2021"},"id":"fe945a11-c451-5e28-af7a-13ff194aa21d","slug":"2021-10-20-k-nearest-neighbor/"},{"frontmatter":{"title":"Bayes & Naïve Bayes Classifier","date":"17 October 2021"},"id":"d911eb22-b01f-530f-ab19-6620e20a207f","slug":"2021-10-17-bayes-naive-bayes-classifier/"},{"frontmatter":{"title":"Lorem Ipsum","date":"13 October 2021"},"id":"cc6b3824-9761-5425-983f-2d9c84431313","slug":"2021-10-13-lorem-ipsum/"},{"frontmatter":{"title":"Markdown Test","date":"13 October 2021"},"id":"2845cfe0-aca9-58b8-b237-8bd8971b10f0","slug":"2021-10-13-markdown-test/"}]}},"pageContext":{}},
+    "staticQueryHashes": ["3080673216"]}
