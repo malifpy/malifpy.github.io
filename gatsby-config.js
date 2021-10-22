@@ -25,6 +25,9 @@ module.exports = {
             options: {
               maxWidth: 2000            },
           },
+          {
+            resolve: `gatsby-remark-highlight-code`,
+          },
           `gatsby-remark-katex`,
         ],
         remarkPlugins: [remarkMath],
