@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktest1=self.webpackChunktest1||[]).push([[678],{7704:function(e,t,n){n.r(t);var a=n(7294),l=n(9232),o=n(5444);t.default=function(){return a.createElement(l.Z,{pageTitle:"Home Page"},a.createElement("p",null,"Empty Home Page. Go to"," ",a.createElement(o.rU,{to:"/post"},"Post"),"."))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-e3522558481eec0c252b.js.map
