@@ -1,0 +1,271 @@
+{
+    "vocab" : [
+        {
+            "Kana" : "わたし",
+            "English" : "I",
+            "Kanji" : "私"
+        },
+        {
+            "Kana" : "あなた",
+            "English" : "You",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "あのひと",
+            "English" : "That person (casual)",
+            "Kanji" : "あの人"
+        },
+        {
+            "Kana" : "あのかた",
+            "English" : "That (respected) person",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "せんせい",
+            "English" : "Teacher",
+            "Kanji" : "先生"
+        },
+        {
+            "Kana" : "きょうし",
+            "English" : "Teacher",
+            "Kanji" : "教師"
+        },
+        {
+            "Kana" : "がくせい",
+            "English" : "Student",
+            "Kanji" : "学生"
+        },
+        {
+            "Kana" : "かいしゃいん",
+            "English" : "Employee",
+            "Kanji" : "会社員"
+        },
+        {
+            "Kana" : "しゃいん",
+            "English" : "Employee",
+            "Kanji" : "社員"
+        },
+        {
+            "Kana" : "ぎんこういん",
+            "English" : "Banker",
+            "Kanji" : "銀行員"
+        },
+        {
+            "Kana" : "いしゃ",
+            "English" : "Doctor",
+            "Kanji" : "医者"
+        },
+        {
+            "Kana" : "けんきゅうしゃ",
+            "English" : "Researcher",
+            "Kanji" : "研究者"
+        },
+        {
+            "Kana" : "だいがく",
+            "English" : "University",
+            "Kanji" : "大学"
+        },
+        {
+            "Kana" : "びょういん",
+            "English" : "Teacher",
+            "Kanji" : "病院"
+        },
+        {
+            "Kana" : "だれ（どなた）",
+            "English" : "Who?",
+            "Kanji" : "誰（どなた）"
+        },
+        {
+            "Kana" : "なんさい（いくつ）",
+            "English" : "How Old?",
+            "Kanji" : "何才（いくつ）"
+        },
+        {
+            "Kana" : "これ",
+            "English" : "Here",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "それ",
+            "English" : "There",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "あそこ",
+            "English" : "There",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "この",
+            "English" : "This",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "その",
+            "English" : "That",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "あの",
+            "English" : "That",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "ほん",
+            "English" : "Book",
+            "Kanji" : "本"
+        },
+        {
+            "Kana" : "じしょ",
+            "English" : "Dictionary",
+            "Kanji" : "辞書"
+        },
+        {
+            "Kana" : "ざっし",
+            "English" : "Magazine",
+            "Kanji" : "雑誌"
+        },
+        {
+            "Kana" : "しんぶん",
+            "English" : "Newspaper",
+            "Kanji" : "新聞"
+        },
+        {
+            "Kana" : "ノート",
+            "English" : "Note",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "てちょう",
+            "English" : "Pocket Book",
+            "Kanji" : "手帳"
+        },
+        {
+            "Kana" : "めいし",
+            "English" : "Name Card",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "カード",
+            "English" : "Card",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "えんぴつ",
+            "English" : "Pencil",
+            "Kanji" : "鉛筆"
+        },
+        {
+            "Kana" : "ボールペン",
+            "English" : "Ballpoint",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "シャープペンシル",
+            "English" : "Mechanical Pencil",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "かぎ",
+            "English" : "Key",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "とけい",
+            "English" : "Clock",
+            "Kanji" : "時計"
+        },
+        {
+            "Kana" : "かさ",
+            "English" : "Umbrella",
+            "Kanji" : "傘"
+        },
+        {
+            "Kana" : "かばん",
+            "English" : "Bag",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "シーディー",
+            "English" : "CD",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "テレビ",
+            "English" : "TV",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "ラジオ",
+            "English" : "Radio",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "カメラ",
+            "English" : "Camera",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "コンピューター",
+            "English" : "Computer",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "くるま",
+            "English" : "Car",
+            "Kanji" : "車"
+        },
+        {
+            "Kana" : "つくえ",
+            "English" : "Desk",
+            "Kanji" : "机"
+        },
+        {
+            "Kana" : "いす",
+            "English" : "Chair",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "チョコレート",
+            "English" : "Chocolate",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "コーヒー",
+            "English" : "Coffee",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "（お）みやげ",
+            "English" : "Souvenir",
+            "Kanji" : "（お）土産"
+        },
+        {
+            "Kana" : "にほんご",
+            "English" : "Japanese",
+            "Kanji" : "日本語"
+        },
+        {
+            "Kana" : "～ご",
+            "English" : "~Languange",
+            "Kanji" : "～語"
+        },
+        {
+            "Kana" : "なん",
+            "English" : "What",
+            "Kanji" : "何"
+        },
+        {
+            "Kana" : "そう",
+            "English" : "Yes, Really",
+            "Kanji" : null
+        },
+        {
+            "Kana" : "えいご",
+            "English" : "English",
+            "Kanji" : "英語"
+        }
+        
+        
+    ]
+}
