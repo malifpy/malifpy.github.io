@@ -8,17 +8,19 @@
 }
 
 .heading {
-  color: #1D3557;
+  color: #1d3557;
 }
 
 .nav-links {
-  display: flex;
-  list-style: none;
-  padding-left: 0;
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  padding: 0%;
 }
 
 .nav-link-item {
-  padding-right: 2rem;
+  display: table-cell;
+  text-align: left;
 }
 
 .nav-link-text {
@@ -31,14 +33,4 @@
   font-weight: 700;
   margin-top: 2rem;
   margin-bottom: 1rem;
-}
-
-code {
-  margin: 15px 0;
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  line-height: 19px;
-  overflow: auto;
-  padding: 3px 5px;
-  border-radius: 3px;
 }

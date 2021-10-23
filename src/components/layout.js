@@ -8,10 +8,10 @@ import {
   navLinkText,
   siteTitle,
 } from "./layout.module.css";
-import { defineCustomElements as deckDeckGoHighlightElement } from "@deckdeckgo/highlight-code/dist/loader";
+//import { defineCustomElements as deckDeckGoHighlightElement } from "@deckdeckgo/highlight-code/dist/loader";
 require(`katex/dist/katex.min.css`);
 
-deckDeckGoHighlightElement();
+//deckDeckGoHighlightElement();
 
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
