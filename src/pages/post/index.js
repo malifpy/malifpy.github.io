@@ -34,7 +34,6 @@ const BlogPage = ({ data }) => {
   };
 
   const changeSearch = (event) => {
-    console.log(event);
     document.getElementById("postSearch").value = event.target.value;
     handleInputChange(event);
   };
@@ -49,13 +48,18 @@ const BlogPage = ({ data }) => {
         id="postSearch"
         type="text"
         defaultValue=""
+        placeholder="Filter title or tag..."
         onChange={handleInputChange}
       />
+      <button value="" onClick={changeSearch}>
+        {" "}
+        Clear{" "}
+      </button>
       {posts.map((node) => (
         <div key={node.id} className="postBox">
           <div className="postDate">{node.frontmatter.date}</div>
           <div className="postLink">
-            <Link to={`/post/${node.slug}`}>{node.frontmatter.title}</Link>
+            <Link to={`/post/${node.slug}`} className="postLinkText">{node.frontmatter.title}</Link>
           </div>
           <div className="postTags">
             {node.frontmatter.tags.map((tag) => (
