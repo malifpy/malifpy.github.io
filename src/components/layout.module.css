@@ -12,15 +12,15 @@
 }
 
 .nav-links {
-  display: table;
   width: 100%;
-  table-layout: fixed;
   padding: 0%;
+  display:flex;
+  justify-content: space-between;
 }
 
 .nav-link-item {
   display: table-cell;
-  text-align: left;
+  text-align: center;
 }
 
 .nav-link-text {
